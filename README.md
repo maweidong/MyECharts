@@ -1,7 +1,7 @@
 # MyECharts
 
 #### 介绍
-数据报表展示
+前端项目：数据报表展示
 
 #### 软件架构
 使用ECharts、flexible.js开发
